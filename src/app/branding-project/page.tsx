@@ -1,7 +1,7 @@
-export default function AboutMePage() {
+export default function BrandingProject() {
   return (
     <main>
-      <h1>About Me</h1>
+      <h1>Branding Project</h1>
     </main>
   );
 }
